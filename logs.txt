@@ -1,0 +1,568 @@
+[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 172.20.10.4
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 1storage/music;0storage/music/690.mp3;1storage/dir1;0storage/dir1/LESS.TXT;0storage/dir1/file1.txt;1storage/dor2;0storage/dor2/file1.txt;1storage/dor2/dor2;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dor2/file1.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 172.20.10.4
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 172.20.10.4
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 1storage/music;0storage/music/690.mp3;1storage/dir1;0storage/dir1/LESS.TXT;0storage/dir1/file1.txt;1storage/dor2;0storage/dor2/file1.txt;1storage/dor2/dor2;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dir1/file1.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 172.20.10.4
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 172.20.10.4
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 1storage/music;0storage/music/690.mp3;1storage/dir1;0storage/dir1/LESS.TXT;0storage/dir1/file1.txt;1storage/dor2;0storage/dor2/file1.txt;1storage/dor2/dor2;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dir1/file1.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 172.20.10.4
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 172.20.10.4
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 1storage/music;0storage/music/690.mp3;1storage/dir1;0storage/dir1/LESS.TXT;0storage/dir1/file1.txt;1storage/dor2;0storage/dor2/file1.txt;1storage/dor2/dor2;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dir1/file1.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 172.20.10.4
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dir1/file1.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 172.20.10.4
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 172.20.10.4
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 1storage/music;0storage/music/690.mp3;1storage/dir1;0storage/dir1/LESS.TXT;0storage/dir1/file1.txt;1storage/dor2;0storage/dor2/file1.txt;1storage/dor2/dor2;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dor2/file1.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 172.20.10.4
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 172.20.10.4
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 1storage/music;0storage/music/690.mp3;1storage/dir1;0storage/dir1/LESS.TXT;0storage/dir1/file1.txt;1storage/dor2;0storage/dor2/file1.txt;1storage/dor2/dor2;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dir1/LESS.TXT
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 172.20.10.4
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 172.20.10.4
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 1storage/music;0storage/music/690.mp3;1storage/dir1;0storage/dir1/LESS.TXT;0storage/dir1/file1.txt;1storage/dor2;0storage/dor2/file1.txt;1storage/dor2/dor2;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dir1/LESS.TXT
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 172.20.10.4
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dir1/LESS.TXT
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 172.20.10.4
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 172.20.10.4
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 1storage/music;0storage/music/690.mp3;1storage/dir1;0storage/dir1/LESS.TXT;0storage/dir1/file1.txt;1storage/dor2;0storage/dor2/file1.txt;1storage/dor2/dor2;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dir1/LESS.TXT
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 172.20.10.4
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 172.20.10.4
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 1storage/music;0storage/music/690.mp3;1storage/dir1;0storage/dir1/LESS.TXT;0storage/dir1/file1.txt;1storage/dor2;0storage/dor2/file1.txt;1storage/dor2/dor2;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dir1/LESS.TXT
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 172.20.10.4
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 172.20.10.4
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 1storage/music;0storage/music/690.mp3;1storage/dir1;0storage/dir1/LESS.TXT;0storage/dir1/file1.txt;1storage/dor2;0storage/dor2/file1.txt;1storage/dor2/dor2;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dir1/LESS.TXT
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 172.20.10.4
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 192.168.148.6
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 1storage/music;0storage/music/690.mp3;1storage/dir1;0storage/dir1/LESS.TXT;0storage/dir1/file1.txt;1storage/dor2;0storage/dor2/LESS.TXT;0storage/dor2/file1.txt;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dir1/file1.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 192.168.148.6
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dor2/file1.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 192.168.148.6
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 192.168.148.6
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 1storage/music;0storage/music/690.mp3;1storage/dir1;0storage/dir1/LESS.TXT;0storage/dir1/file1.txt;1storage/dor2;0storage/dor2/LESS.TXT;0storage/dor2/file1.txt;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dor2/LESS.TXT
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: WRITE
+[36mMessage Type: SERVER CONFIGURATION
+[0mNetwork IP: 192.168.148.6
+Port Number: 6000
+Error Code: 0
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 172.20.10.4
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 0storage/mera;1storage/dir1;0storage/dir1/file1.txt;1storage/new;0storage/new/hai;1storage/shreyas;1storage/shreyas/swam;0storage/shreyas/swam/inesh.txt;0storage/shreyas/shubham.txt;1storage/dir2;0storage/dir2/file2.txt;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: SERVER INITIALIZATION INFO
+[0mNetwork IP: 172.20.10.4
+Naming Server Port: 5000
+Client Communication Port: 6000
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8080
+[0m[36mMessage Type: STRING
+[0mContent: 0storage/mera;1storage/dir1;0storage/dir1/file1.txt;1storage/new;0storage/new/hai;1storage/shreyas;1storage/shreyas/swam;0storage/shreyas/swam/inesh.txt;0storage/shreyas/shubham.txt;1storage/dir2;0storage/dir2/file2.txt;
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: COPY
+Requested File Path: ./storage/dir1/file1.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Server ===
+[0m[32mDestination IP Address: 172.20.10.4
+Destination Port: 36370
+[0mOperation Type Served: SEND
+[36mMessage Type: FILE REQUEST
+[0mOperation Type: READ
+Requested File Path: ./storage/dir1/file1.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: COPY
+[36mMessage Type: STATUS
+[0mStatus: 538976288
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Client ===
+[0m[32mSource IP Address: 127.0.0.1
+Source Port: 8081
+[0m[36mMessage Type: FILE REQUEST
+[0mOperation Type: COPY
+Requested File Path: ./storage/dir2/file2.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Server ===
+[0m[32mDestination IP Address: 172.20.10.4
+Destination Port: 44250
+[0mOperation Type Served: SEND
+[36mMessage Type: FILE REQUEST
+[0mOperation Type: READ
+Requested File Path: ./storage/dir2/file2.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 172.20.10.4
+Source Port: 44250
+[0m[36mMessage Type: STRING
+[0mContent: This is file 2
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Server ===
+[0m[32mDestination IP Address: 172.20.10.4
+Destination Port: 44256
+[0mOperation Type Served: SEND
+[36mMessage Type: FILE REQUEST
+[0mOperation Type: WRITE
+Requested File Path: ./storage/dir1/file1.txt
+[33m=== End of Message ===
+
+[0m[33m=== New Message Received from Server ===
+[0m[32mSource IP Address: 172.20.10.4
+Source Port: 44256
+[0m[36mMessage Type: STATUS
+[0mStatus: OK
+[33m=== End of Message ===
+
+[0m[33m=== New Message Sent to Client ===
+[0m[32mDestination IP Address: 127.0.0.1
+Destination Port: 8081
+[0mOperation Type Served: COPY
+[36mMessage Type: STATUS
+[0mStatus: OK
+[33m=== End of Message ===
+
+[0m

@@ -1,0 +1,4 @@
+This file is required by the "LARGE" operation on the client side.
+It helps in writing large data to a storage server
+
+just fill this file with random data to make it large :}
